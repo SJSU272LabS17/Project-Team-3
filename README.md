@@ -7,3 +7,16 @@ Idea#1: Potential crime detection using visual recognition in surveillance syste
  Since surveillance cameras in an area/shopping complex(or any defined geographic scope) are wifi connected and centrally monitored, we could sample the 
  video stream to capture snapshots which could be fed into visual recognition tools to identify potential crime scenes beforehand (by analysing the image for 
  presence of any weapons) . A notification/alarm could consequently be triggered to the concerned authorities alerting them.
+
+# Smart Farm
+
+Problem:
+
+The current world population of 7.3 billion is expected to reach 9.7 billion in 2050, according to the UN. The world will consequently need to produce 70% more food in 2050 than it did in 2006 in order to feed the growing population of the Earth, according to the Food and Agriculture Organization of the UN. Farmers will need to turn to new technologies to meet the growing demand for food production in the world.
+
+
+Solution:
+
+Smart Farming represents the application of modern Information and Communication Technologies (ICT) into  agriculture. Smart farms combines application of ICT solutions such as precision equipment, the Internet of Things (IoT), sensors and actuators, geo-positioning systems, Big Data, Unmanned Aerial Vehicles (UAVs, drones), robotics, etc , to increase the yield of the farm , and to meet the growing demand of the world population.
+
+The smart farm collects data about the farm (crop yield , topography , soil composition , moisture level , nitrogen level , temperature ...)  using the sensors , robots , and drones. The data is stored, processed , and presented to the farmers in the forms of maps and graphs , to help the farmers in the decision making process. The data is also used for automation of farming activities (planting seeds ,irrigation , spraying pesticides, harvesting ,feeding and monitoring livestock)  using sensors ,actuators , robots , and drones. 
