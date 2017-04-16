@@ -8,8 +8,9 @@ How do we plan to execute?
 2. For object pattern recognition, we'll be using IBM Bluemix's Visual recognition service
 3. Taking it further, we would want to capture this as time-stamped data so that the user could analyse the time slabs with maximum scope for danger.
 
-![alt tag](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/flowdiagram1.png#"center")
-
+<p align="center">
+![alt tag](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/flowdiagram1.png)
+</p>
 
 Idea#2: Smart Farm
 
@@ -29,5 +30,6 @@ Online shopping has been growing on a large scale in the recent times. As a resu
 
 We propose to analyze this data to predict user’s online shopping behaviour. Analyzed data is then represented in a graphical format. This graphical model helps market analysts in making decisions according to consumer's taste which in turn helps improving sales and marketing strategies. Also, this graphical model is based on statistical features and it integrates all available information to simulate decision making by implementing machine learning model. Identifying products on demand, products which are most frequently purchased are some of the ways in which data can be used. 
 
-![alt tag](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/flowdiagram.png#"center")
-
+<p align="center">
+![alt tag](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/flowdiagram3.png)
+</p>
