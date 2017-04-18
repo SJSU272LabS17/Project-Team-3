@@ -1,16 +1,10 @@
 # Project-Team-3
 
-Idea#1: Building an intelligent security system that can sample a video stream(that could be from a surveillance camera) and look for the presence of unacceptable or potentially threat-posing objects (as configured by the user) and raise an alarm alerting the concerned authorities.
+Idea#1: Intelligent Security System
 
-How do we plan to execute?
+Building an intelligent security system that can sample a video stream(that could be from a surveillance camera) and look for the presence of unacceptable or potentially threat-posing objects (as configured by the user) and raise an alarm alerting the concerned authorities.
 
-1. For the purpose of the project, we intend on using the webcam in a laptop as our source of video stream
-2. For object pattern recognition, we'll be using IBM Bluemix's Visual recognition service
-3. Taking it further, we would want to capture this as time-stamped data so that the user could analyse the time slabs with maximum scope for danger.
 
-![alt tag](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/flowdiagram1.png)
-
- 
 Idea#2: Customer Behaviour Analysis in online shopping
 
 Online shopping has been growing on a large scale in the recent times. As a result of this, huge amount of data pertaining to customer activity is available online. This data can be used for identifying patterns in customer shopping behaviour and online customer classification.
