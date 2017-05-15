@@ -12,7 +12,7 @@ The information pertaining to people could be extremely helpful to shop/restaura
 
 # Architecture Flow Diagram  :
 
-![alt text]()
+![alt text](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Final%20Flow%20Diagram.png "Architecture Flow Diagram")
 
 # Project Deliverables :
 1.[Project Report](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/Team_29.pdf)
