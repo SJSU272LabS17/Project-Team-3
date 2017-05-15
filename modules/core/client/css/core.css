@@ -1,0 +1,79 @@
+.content {
+  margin-top: 50px;
+}
+.undecorated-link:hover {
+  text-decoration: none;
+}
+[ng\:cloak],
+[ng-cloak],
+[x-ng-cloak],
+.ng-cloak,
+.x-ng-cloak {
+  display: none !important;
+}
+.header-profile-image {
+  border-radius: 50%;
+  height: 28px;
+  margin-right: 5px;
+  opacity: 0.8;
+  width: 28px;
+}
+.open .header-profile-image,
+a:hover .header-profile-image {
+  opacity: 1;
+}
+.user-header-dropdown-toggle {
+  padding-bottom: 11px !important;
+  padding-top: 11px !important;
+}
+.user-primary-account {
+  font-size: 30px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.error-text {
+  display: none;
+}
+.has-error .help-block.error-text {
+  display: block;
+}
+.has-error .help-inline.error-text {
+  display: inline;
+}
+.smartcamsBG{
+  margin-top: 20px;
+  background-image: url("/modules/core/client/img/brand/homebg2.jpg");
+  /*background-size:100%;
+  background-size:*/
+  height: 120%;
+  background-size: 100% 150%;                      /* <------ */
+    background-repeat:   no-repeat;
+    /*background-position: center center;*/
+  /*no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;*/
+}
+.fullBG{
+  background-image: url(/modules/core/client/img/brand/homebg2.jpg);
+    background-size: cover;
+    position: relative;
+}
+.transparency{
+  opacity: 0;
+}
+.deep{
+  margin-top: 10px;
+  margin-left: 150px;
+}
+.alignleft{
+      margin-left: -95px !important;
+}
+.bgclass{
+background-color: #fcf8e3;
+}
+.margin{
+  margin-top: 130px;
+}
