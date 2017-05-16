@@ -15,15 +15,15 @@ The information pertaining to people could be extremely helpful to shop/restaura
 ![alt text](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Final%20Flow%20Diagram.png "Architecture Flow Diagram")
 
 # Project Deliverables :
-1.[Project Report](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/Team_29.pdf)
-2.[Presentation Slides](https://github.com/SJSU272Lab/ASDapp/blob/master/FInal%20Project/autism.pptx)
-3.[Demo Video]()
+1.[Project Report](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/ProjectReport_Team3.pdf)
+2.[Presentation Slides](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/Presentation_SmartCams.pptx)
+3.[Demo Video](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/SmartCams_DemoVideo.mp4)
 4.[Project Tutorial]()
 
 # Future Scope :
 
 # Team Members :
-<img src="" width="100" height="100" />
-<img src="" width="100" height="100" />
-<img src="" width="100" height="100" />
-<img src="" width="100" height="100" />
+<img src="https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Ambika_image.jpeg" width="100" height="100" />
+<img src="https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Anusha_image.jpeg" width="100" height="100" />
+<img src="https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Lavanya_image.jpeg" width="100" height="100" />
+<img src="https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Naresh_image.jpeg" width="100" height="100" />
