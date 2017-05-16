@@ -14,6 +14,31 @@ We need to actively think about our privacy and security. As crime rates are inc
 
 Smart Cams is a software product that leverages Visual Recognition services and provides customised solutions to end users. The camera is empowered with visual recognition abilities that could identify the presence of a person. It allow users to collect, analyze and interpret the data in real time. It also collects the demographic data(gender, age, proximity) of customers. This allows the users of Smart Cams to gain meaningful insight into customer behaviour patterns, which can be used to improve store performance, pricing and promotion of products and workforce/stores streamlining. This also helps the users to improve their sales, customer experience while lower their overheads.
 
+# Getting Started :
+
+1. Edit the image path with your path in camserver.js: /Users/mulumoodi/Downloads/dl.png 
+
+2. Run automate.sh
+
+3. To add module 'watson-developer-cloud' :   
+```
+npm install watson-developer-cloud
+```
+
+4. To add module 'elasticsearch' :  
+```
+npm install elasticsearch
+```
+
+5. To add module moment :
+```
+npm install moment
+```
+
+6. To add module 'aws-sdk' : 
+```
+npm install aws-sdk
+```
 
 # Architecture Flow Diagram  :
 
