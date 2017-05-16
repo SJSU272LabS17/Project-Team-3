@@ -16,9 +16,9 @@ Smart Cams is a software product that leverages Visual Recognition services and 
 
 # Getting Started :
 
-1. Edit the image path with your path in camserver.js: /Users/mulumoodi/Downloads/dl.png 
+1. Edit the image path with your path in camserver.js: /Users/<username>/Downloads/dl.png 
 
-2. Run automate.sh
+2. Run automate.sh - this is for launching image recognition via webcam.
 
 3. To add module 'watson-developer-cloud' :   
 ```
@@ -40,6 +40,10 @@ npm install moment
 npm install aws-sdk
 ```
 
+7. MongoDB - [Download & Install MongoDB](http://www.mongodb.org/downloads), and make sure it's running on the default port (27017)
+
+8. To run this application on local host [http://localhost:3000](http://localhost:3000), run node server.js
+
 # Architecture Flow Diagram  :
 
 ![alt text](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Final%20Flow%20Diagram.png "Architecture Flow Diagram")
@@ -56,7 +60,7 @@ Smart cams can also be used for home security. Smart Cams can be configured to b
 1.[Project Report](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/ProjectReport_Team3.pdf)
 2.[Presentation Slides](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/Presentation_SmartCams.pptx)
 3.[Demo Video](https://www.youtube.com/watch?v=srvJN4QzsSg)
-4.[Project Tutorial]()
+4.[Project Tutorial](https://drive.google.com/drive/u/1/my-drive)
 
 # Link to Project on AWS :
 
