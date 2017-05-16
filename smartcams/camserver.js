@@ -12,7 +12,7 @@ var AWS = require('aws-sdk');
 /*AWS.config.update({accessKeyId:"AKIAJYFGMQSSIVNZV2DA",
  secretAccessKey:"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",
  "region":"us-west-2"});;*/
- AWS.config.update({accessKeyId:"AKIA IYWQ UXYQ3 IEH4N3A",
+ AWS.config.update({accessKeyId:"AKIA IYWQ UXYQ3 IEH4N3A",  //change aws key
   secretAccessKey:"noG9TI5Tc0l6omz 7ACIi waiOlaxwQbD/jHhGjjlXp",
   "region":"us-west-2"});
   //AWSSecretKey=noG9TI5Tc0l6omz7ACIiwaiOlaxwQD/jHhGjjlXp
@@ -76,7 +76,7 @@ if (page == '/'){
             console.log("Waiting a sec");
             setTimeout(function(){
               var params = {
-                images_file: fs.createReadStream('/Users/mulumoodi/Downloads/dl.png')
+                images_file: fs.createReadStream('/Users/mulumoodi/Downloads/dl.png') //change path 
               };
 
               visual_recognition.detectFaces(params, function(err, res) {
@@ -98,7 +98,7 @@ if (page == '/'){
                       console.log(obj7);
                       console.log("A "+obj7+" of age "+obj5+"-"+obj6+" found");
 
-                        sendNotif("A " +human_count_val +obj7+" of age "+obj5+"-"+obj6+" found");
+                        //sendNotif("A " +human_count_val +obj7+" of age "+obj5+"-"+obj6+" found");
 
                     }
                     client.index({
@@ -121,9 +121,9 @@ if (page == '/'){
                     })
                     //fs.unlinkSync('/Users/mulumoodi/Downloads/dl.png');
                     //console.log("Deletion succesful");
-                    if (fs.existsSync('/Users/mulumoodi/Downloads/dl.png')) {
+                    if (fs.existsSync('/Users/mulumoodi/Downloads/dl.png')) { //change path
                         console.log('Found file');
-                        fs.unlinkSync('/Users/mulumoodi/Downloads/dl.png');
+                        fs.unlinkSync('/Users/mulumoodi/Downloads/dl.png'); //change path
                         //console.log("Deletion succesful");
                     }
 
