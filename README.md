@@ -60,7 +60,7 @@ Smart cams can also be used for home security. Smart Cams can be configured to b
 1.[Project Report](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/ProjectReport_Team3.pdf)
 2.[Presentation Slides](https://github.com/SJSU272LabS17/Project-Team-3/blob/master/Presentation_SmartCams.pptx)
 3.[Demo Video](https://www.youtube.com/watch?v=srvJN4QzsSg)
-4.[Project Tutorial](https://drive.google.com/drive/u/1/my-drive)
+4.[Project Tutorial](https://drive.google.com/open?id=0B1B-xNERoUpRTENjSl91Mi1kbDg)
 
 # Link to Project on AWS :
 
