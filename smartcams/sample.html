@@ -1,0 +1,50 @@
+<video id="player" controls autoplay></video>
+<a id="capture" download="dl.png">Capture</a>
+<canvas id="snapshot" width=320 height=240></canvas>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script>
+  var player = document.getElementById('player');
+  var snapshotCanvas = document.getElementById('snapshot');
+  var captureButton = document.getElementById('capture');
+
+  var handleSuccess = function(stream) {
+    // Attach the video stream to the video element and autoplay.
+    player.srcObject = stream;
+  };
+
+
+function doSomething() {
+var context = snapshot.getContext('2d');
+    // Draw the video frame to the canvas.
+    context.drawImage(player, 0, 0, snapshotCanvas.width,
+        snapshotCanvas.height);
+//    var image = new Image();
+        var image = snapshotCanvas.toDataURL("image/png");
+        captureButton.href=image;
+	      captureButton.click();
+        //var dataURL=JSON.stringify(image.replace(/^data:image\/(png|jpg);base64,/, ""));
+        $.ajax({
+          type: "POST",
+          url: "http://localhost:8080/",
+          //data: dataURL,
+          success: function(response) {
+            console.log(response);
+          }
+        });
+
+
+
+}
+
+setInterval(doSomething, 4000);
+  navigator.mediaDevices.getUserMedia({video: true})
+      .then(handleSuccess);
+
+
+
+
+
+
+
+
+</script>
