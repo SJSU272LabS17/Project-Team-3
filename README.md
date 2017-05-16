@@ -38,7 +38,8 @@ Smart cams can also be used for home security. Smart Cams can be configured to b
 http://ec2-52-41-107-173.us-west-2.compute.amazonaws.com/
 
 # Team Members :
-Ambika Bohra
-Sai Anusha Mulumoodi
-Lavanya Kandukuri
-Naresh Kumar
+
+|<img src="https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Ambika_image.jpeg" width="100" height="100" />
+<img src="https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Anusha_image.jpeg" width="100" height="100" />
+<img src="https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Lavanya_image.jpeg" width="100" height="100" />
+<img src="https://github.com/SJSU272LabS17/Project-Team-3/blob/master/images/Naresh_image.jpeg" width="100" height="100" />
