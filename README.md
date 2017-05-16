@@ -16,7 +16,7 @@ Smart Cams is a software product that leverages Visual Recognition services and 
 
 # Getting Started :
 
-1. Edit the image path with your path in camserver.js: /Users/<username>/Downloads/dl.png 
+1. Edit the image path with your path in camserver.js: /Users/YourUsername/Downloads/dl.png 
 
 2. Run automate.sh - this is for launching image recognition via webcam.
 
