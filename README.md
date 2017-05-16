@@ -41,4 +41,4 @@ http://ec2-52-41-107-173.us-west-2.compute.amazonaws.com/
 Ambika Bohra
 Sai Anusha Mulumoodi
 Lavanya Kandukuri
-Nareah Kumar
+Naresh Kumar
